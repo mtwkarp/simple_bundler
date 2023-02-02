@@ -1,2 +1,2 @@
 
-export const name = 'YGLF Kyiv'
+export const name = 'HELLO !!!'

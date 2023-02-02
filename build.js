@@ -48,7 +48,7 @@ exports.default = "hello " + _name.name + "!";
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var name = exports.name = 'YGLF Kyiv';
+var name = exports.name = 'HELLO !!!';
             },
         {}
         ],}) 
